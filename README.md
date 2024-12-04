@@ -1,7 +1,3 @@
-Sure! Here’s the same **README.md** file with bold text formatting for important sections:
-
----
-
 # **Smart Habit Tracker with Daily Updates**
 
 A simple habit tracker application built with **Node.js**, **Express**, and **WebSocket** to help users maintain daily habits by logging their progress and receiving reminders. The app tracks habits, sends daily reminders, and generates weekly reports.
